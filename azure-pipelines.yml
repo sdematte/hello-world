@@ -20,7 +20,7 @@ steps:
   inputs:
     orchestratorConnection: 'sdem-orch'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
-    folderName: 'Shared'
+    folderName: 'HR'
     entryPoints: 'Main.xaml'
 
     
